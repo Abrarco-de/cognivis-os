@@ -120,7 +120,7 @@ def call_grok(system_prompt: str, user_message: str) -> str:
             "Content-Type": "application/json"
         }
         payload = {
-            "model": "grok-3-mini",
+            "model": "grok-2-latest",
             "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user",   "content": user_message}
