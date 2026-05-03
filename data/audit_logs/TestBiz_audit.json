@@ -1,0 +1,10 @@
+[
+  {
+    "business_name": "TestBiz",
+    "timestamp": "2026-05-03 07:39:32",
+    "invoice_id": "INV-001",
+    "action": "B2B Conversion",
+    "status": "Resolved",
+    "authorized_by": "Admin"
+  }
+]
